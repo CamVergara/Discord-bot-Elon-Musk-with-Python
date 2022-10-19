@@ -9,6 +9,7 @@ This repo contains code to create a replica of Elon Musk that can chat and inter
 # Try it!
 
 Wanna try it out? Here's an invite link to the Discord server (read message history is disabled).
+
 Invite link: https://discord.gg/fxCAHD3U
 
 # Demo 
