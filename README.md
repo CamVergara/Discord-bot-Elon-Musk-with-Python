@@ -4,7 +4,7 @@
 <img width="205" alt="ElonBot" src="https://user-images.githubusercontent.com/107360657/196608381-213d907d-7fb9-4404-a541-6c0e09930380.png">
 
 
-This repo contains code to create a replica of Elon Musk that can chat and interact with users on Discord, like sending private messages if the special key "?" before a command is used.
+This repo contains code to create a replica of "Elon Musk" bot that can chat and interact with users on Discord, like sending private messages if the special key "?" before a command is used.
 
 # Try it!
 
