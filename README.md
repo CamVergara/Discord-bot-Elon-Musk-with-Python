@@ -24,7 +24,7 @@ Here is a demo of the bot sending a private message if you use the key "?" in a 
 
 # Abilities in Detail
 
-- Automated responses to messages like the ones above
+- Automated responses to messages 
 - Start a private chat with Elon with  the signal "?" in a command
 - telling a random number from 1-6 with the command "Tell me a number"
 - Showing special message box with command "!help"
