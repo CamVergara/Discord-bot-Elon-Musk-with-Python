@@ -16,7 +16,7 @@ Invite link: https://discord.gg/fxCAHD3U
 
 Here is a demo chatting with the bot "Elon Musk"
 
-![Demo_Gif](https://user-images.githubusercontent.com/107360657/196609308-d74e24f5-f089-4184-bed3-23ab35dca335.gif)
+![demo](https://user-images.githubusercontent.com/107360657/197402517-8b0f7cd2-360a-42f9-b4bc-be4f0a859010.gif)
 
 Here is a demo of the bot sending a private message if you use the key "?" in a command message
 
