@@ -24,7 +24,7 @@ def handle_response(message) -> str:
         return str(random.randint(1, 6))
 
     if p_message == '!help':
-        return "`This is a help message that you can modify.`" 
+        return "`This is a help message. Evertything is gonna be ok.`" 
 
     if p_message == 'thanks elon, bye!':
         return 'Bye, hope to see you again!'
